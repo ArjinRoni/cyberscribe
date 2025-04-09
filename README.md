@@ -1,9 +1,8 @@
 # CyberScribe Transcriptor
 
-A  audio transcription tool created by Arjin Roni and Claude Sonnet, CyberScribe bridges the gap between human speech and AI interaction, transforming the way we communicate with large language models. You can instantly record your brainstorming or intended communication with AI and paste it into any LLM. It also accepts audio and video files, for example WhatsApp audio messages, or iphone / phone recordings. 
+A  audio transcription tool created by Claude Sonnet and I, CyberScribe tries to narrow the gap between upper limit of human token creation speed and AI interaction, helping meetsacks communicate with text based llm interfaces faster. You can instantly record your brainstorming / thoughts sesh, or intended communication with any llm and paste it into any text box. I find it really helpful. It also accepts audio and video files, for example WhatsApp audio messages, or iphone / phone recordings. 
 
-
-With humans speaking at ~150 WPM but typing only ~50 WPM, CyberScribe unlocks your  conversational potential with AI. Simply speak, transcribe, and paste into any LLM for a 3x efficiency boost in your AI workflows.
+With humans speaking at ~150 WPM but typing only ~50 WPM, CyberScribe unlocks your  conversational potential with AI. Simply speak, transcribe, and paste into any LLM your output. 
 
 ![CyberScribe Logo](https://img.shields.io/badge/CyberScribe-v1.1-00ff00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwZmYwMCIgZD0iTTIzIDh2OGgtNHYtMmgtMnYyaC00di0ySDl2Mkg1VjhoNHYyaDR2LTJoMnYyaDJ2LTJoNnptLTEwIDZoLTJ2MmgydjJ6Ii8+PC9zdmc+)
 
