@@ -1,0 +1,10 @@
+openai-whisper
+soundfile
+numpy
+torch
+tk
+pyaudio
+wave
+ffmpeg-python
+pyperclip
+moviepy 
